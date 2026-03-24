@@ -1,7 +1,6 @@
 # Python Log Analyzer
 
-A simple Python tool that reads a log file and counts failed login attempts. Built for beginners learning programming and basic cybersecurity concepts.
-
+A simple Python tool that reads a log file and counts failed login attempts. 
 ---
 
 ## What it does
